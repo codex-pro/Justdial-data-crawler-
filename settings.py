@@ -1,0 +1,1 @@
+USER_AGENT ='Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; AdsBot-Google-Mobile; +http://www.google.com/mobile/adsbot.html)7.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'
